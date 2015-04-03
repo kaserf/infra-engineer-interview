@@ -1,0 +1,57 @@
+[
+  {
+    "id":"mainframe",
+    "users":[
+      {
+        "id":"sarcher",
+        "globalUserId":2000006,
+        "passwordHash":"$1$xyz$jAlmRpcFe.aiPOIXET9GG/",
+        "firstName":"Sterling",
+        "lastName":"Malory Archer",
+        "enabled":false
+      },{
+        "id":"lkane",
+        "globalUserId":2000007,
+        "passwordHash":"$1$xyz$jAlmRpcFe.aiPOIXET9GG/",
+        "firstName":"Lana",
+        "lastName":"Anthony Kane",
+        "enabled":false
+      },{
+        "id":"marcher",
+        "globalUserId":2000008,
+        "passwordHash":"$1$xyz$jAlmRpcFe.aiPOIXET9GG/",
+        "firstName":"Malory",
+        "lastName":"Archer",
+        "enabled":false
+      },{
+        "id":"cfiggis",
+        "globalUserId":2000009,
+        "passwordHash":"$1$xyz$jAlmRpcFe.aiPOIXET9GG/",
+        "firstName":"Cyril",
+        "lastName":"Figgis",
+        "enabled":false
+      },{
+        "id":"ctunt",
+        "globalUserId":2000010,
+        "passwordHash":"$1$xyz$jAlmRpcFe.aiPOIXET9GG/",
+        "firstName":"Cheryl",
+        "lastName":"Tunt",
+        "enabled":false
+      },{
+        "id":"ppoovey",
+        "globalUserId":2000012,
+        "passwordHash":"$1$xyz$jAlmRpcFe.aiPOIXET9GG/",
+        "firstName":"Pamela",
+        "lastName":"Poovey",
+        "enabled":false
+      },{
+        "id":"drkrieger",
+        "globalUserId":2000013,
+        "passwordHash":"$1$xyz$jAlmRpcFe.aiPOIXET9GG/",
+        "firstName":"Doctor",
+        "lastName":"Krieger",
+        "enabled":false
+      }
+    ]
+  }
+]
